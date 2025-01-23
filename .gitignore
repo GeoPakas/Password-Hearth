@@ -2,4 +2,4 @@
 *.log
 *.db
 .DS_Store
-/data/database.db
+/data/password_manager.db
